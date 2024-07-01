@@ -1,0 +1,22 @@
+{
+  "clients": [
+    {
+      "id": "2",
+      "nom": "KABORE",
+      "adresse": "Ouagadougou sect 22",
+      "tel": "00226 03040506"
+    },
+    {
+      "id": "3",
+      "nom": "COMPAORE",
+      "adresse": "Koudougou sect 11",
+      "tel": "00226 00060708"
+    },
+    {
+      "id": "52d8",
+      "nom": "ISSA",
+      "adresse": "Kaya sect 1",
+      "tel": "00001234"
+    }
+  ]
+}
